@@ -1,0 +1,8 @@
+.backNav {
+  & > a {
+    display: block;
+    padding: 15px;
+    color: inherit;
+    text-decoration: none;
+  }
+}

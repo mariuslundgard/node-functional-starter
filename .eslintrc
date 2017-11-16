@@ -1,0 +1,17 @@
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "env": {
+    "jest": true,
+    "node": true,
+    "browser": true
+  },
+  "plugins": ["babel", "flowtype", "import"],
+  "extends": [
+    "standard"
+  ]
+}

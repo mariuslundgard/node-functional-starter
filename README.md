@@ -1,0 +1,1 @@
+# node-functional-starter
